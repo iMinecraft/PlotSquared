@@ -1,8 +1,8 @@
-PlotSquared Official Repo
+PlotSquared (iMinecraft Edition)
 ==========================================================
-This is the official PlotSquared repo, if you didn't understand that by the title... 
+This is the iMinecraft Edition of PlotSquared reposition.
 
-## Links: ##
+## Official Version of PlotSquared's Links: ##
 
 - [Spigot Page](http://www.spigotmc.org/resources/plotsquared.1177/ "SpigotMc")
 - [Bukkit Page](http://dev.bukkit.org/bukkit-plugins/plotsquared/ "Bukkit")
